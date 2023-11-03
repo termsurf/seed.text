@@ -24,6 +24,8 @@
 The goal of `seed.text` is to collect structured literature data for general
 consumption. All of this data will be hosted on [`chat.surf`](https://chat.surf), a website devoted to literature and languages across the globe, throughout history. If you see something there that needs to be fixed, this is the repo to probably make the change.
 
+For more related open community data projects, see [`seed`](https://github.com/wavebond/seed).
+
 ## Data Sources
 
 We collect data from a variety of places both from the web and from physical books and such. Here is a brief overview of some of the data sources we have currently used.
